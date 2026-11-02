@@ -5,4 +5,4 @@ function sayHi(name) {
 
 module.exports = sayHi
 
-//workflows enabled
+//workflows enabled Wahoo!
